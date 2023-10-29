@@ -36,7 +36,7 @@ export const heroSlider = [
     image: <HeroSlideImage1 />,
     subtitle:
       'A Premium Pet Sitting service in New York City',
-    buttonText: 'BOOK ME',
+    buttonText: 'COMING SOON',
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ export const heroSlider = [
     image: <HeroSlideImage2 />,
     subtitle:
       'Overnight Peace of Mind for Pet Parents in New York City.',
-    buttonText: 'BOOK ME',
+    buttonText: 'COMING SOON',
   },
   {
     id: 3,
@@ -52,7 +52,7 @@ export const heroSlider = [
     image: <HeroSlideImage3 />,
     subtitle:
       'NYCs Trusted Overnight Pet Care. Your Pets Peace of Mind.',
-    buttonText: 'BOOK ME',
+    buttonText: 'COMING SOON',
   },
 ];
 
