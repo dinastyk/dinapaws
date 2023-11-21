@@ -33,6 +33,13 @@ module.exports = {
         DEFAULT: '#FFDA54',
         secondary: '#FFF3D2',
       },
+
+     purple: {
+      DEFAULT:'#9966CC',
+
+      },
+
+      
       white: '#fff',
       pink: 'pink',
       transparent: 'transparent',
