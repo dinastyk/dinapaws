@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Header = () => {
-  return <div>Header</div>;
+  return <div>By Dina </div>;
 };
 
 export default Header;
